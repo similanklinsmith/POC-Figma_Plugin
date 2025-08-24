@@ -20,3 +20,7 @@
 
 ## 📚 อ่านเพิ่มเติม
 // Document, GitHub
+
+👉 [Figma Plugin Document](https://www.figma.com/plugin-docs/) - รายละเอียดการสร้าง Figma Plugin แบบละเอียด
+
+👉 [HTML Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Cheatsheet) - Basic HTML Element
